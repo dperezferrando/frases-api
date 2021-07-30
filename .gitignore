@@ -1,5 +1,6 @@
 # Logs
 frases-api.sublime-workspace
+env.js
 logs
 *.log
 npm-debug.log*
